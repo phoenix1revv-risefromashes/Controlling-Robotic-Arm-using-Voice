@@ -88,4 +88,5 @@ This approach reduces complexity in interaction while maintaining structured tas
 
 - Arduino  
 - Servo motors  
-- C/C++ (Arduino environment)  
+- Python
+- Rasp-pi
