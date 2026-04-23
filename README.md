@@ -86,7 +86,8 @@ This approach reduces complexity in interaction while maintaining structured tas
 
 ## Technologies Used
 
-- Arduino  
+- Arduino, C C++  
 - Servo motors  
 - Python
-- Rasp-pi
+- Raspberry Pi
+- 
