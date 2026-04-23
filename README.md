@@ -52,11 +52,11 @@ The system responds to:
 
 ---
 
-## Demo
+## Project Video
 
 Short demonstration of the robotic arm responding to voice input and executing the sequence:
 
-[Watch demo here](YOUR_VIDEO_LINK_HERE)
+[Watch demo here]([YOUR_VIDEO_LINK_HERE](https://sofiauniversity-my.sharepoint.com/:v:/g/personal/santosh_bogati_sofia_edu/IQDzVXWx088MS7l8NzdqCqiPARP_ne4Rhgm3oObK0m5PCdM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fwarbL))
 
 ---
 
