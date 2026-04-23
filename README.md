@@ -42,13 +42,13 @@ The system responds to:
 ## Visual Demonstration
 
 ### Grab
-![Grab](images/grab.png)
+![Grab](Images/Grab.png)
 
 ### Lift
-![Lift](images/lift.png)
+![Lift](Images/Lift.png)
 
 ### Drop
-![Drop](images/drop.png)
+![Drop](Images/Drop.png)
 
 ---
 
